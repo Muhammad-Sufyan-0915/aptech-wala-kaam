@@ -1,0 +1,39 @@
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+<xs:element name="owner">
+<xs:complexType>
+<xs:sequence>
+<xs:element name="manager">
+<xs:complexType>
+<xs:sequence>
+<xs:element name="shoeStore">
+<xs:complexType>
+<xs:sequence>
+<xs:element name="employees" type="xs:string"></xs:element>
+</xs:sequence>
+</xs:complexType>
+</xs:element>
+<xs:element name="burgerStore">
+<xs:complexType>
+<xs:sequence>
+<xs:element name="employees" type="xs:string"></xs:element>
+</xs:sequence>
+</xs:complexType>
+</xs:element>
+</xs:sequence>
+</xs:complexType>
+</xs:element>
+</xs:complexType>
+</xs:schema>
+
+
+
+<owner>
+<manager>
+<shoeStore> 
+<employees>Cristiano Ronaldo + 29</employees>
+</shoeStore>
+<burgerStore> 
+<employees>Richard + 29</employees>
+</burgerStore>
+</manager>
+</owner>

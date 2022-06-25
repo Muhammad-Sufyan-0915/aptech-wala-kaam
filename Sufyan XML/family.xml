@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="family.css"?>
+
+<family id="family"> <familyName id="family-name">Royal family</familyName>
+<grandParents> <gParents id="gparents">Dada Dadi and Nana Nani</gParents>
+<parents> <parent id="parent">Mother and Father</parent>
+<kids> Bacche
+<kid1>baccha no. 1</kid1>
+<kid2>baccha no. 2</kid2>
+<kid3>baccha no. 3</kid3>
+</kids>
+</parents>
+<uncle> uncle aunty
+<cousin>
+<cousin1>cousin no. 1</cousin1>
+<cousin2>cousin no. 2</cousin2>
+<cousin3>cousin no. 3</cousin3>
+</cousin>
+</uncle>
+</grandParents>
+</family>

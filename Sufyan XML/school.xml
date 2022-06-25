@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<school>
+<class9>
+<student>Ali</student>
+<subject>English</subject>
+<subject></subject>
+<subject></subject>
+</class9>
+<class10>
+<student></student>
+</class10>
+</school>

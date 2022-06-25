@@ -1,0 +1,14 @@
+<!DOCTYPE note[
+<!ELEMENT note (to,from,subject,message)>
+<!ELEMENT to (#PCDATA)>
+<!ELEMENT from (#PCDATA)>
+<!ELEMENT subject (#PCDATA)>
+<!ELEMENT message (#PCDATA)>
+]>
+
+<note>
+<to>Mr ABC</to>
+<from>MRs. ABC</from>
+<subject>Nothing</subject>
+<message>Koi nahi</message>
+</note>

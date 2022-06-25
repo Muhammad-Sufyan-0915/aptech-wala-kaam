@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<company>Pakfood Internationals
+<export>Vegetables
+
+<continent> Asia
+<transporation>
+<air>airplane</air>
+<land>trucks and lorries</land>
+<sea>Ships</sea>
+</transporation>
+</continent>
+
+<continent> Africa
+<transporation>
+<air>airplane</air>
+<land>trucks and lorries</land>
+<sea>Ships</sea>
+</transporation>
+</continent>
+
+<continent>Europe
+<transporation>
+<air>airplane</air>
+<land>trucks and lorries</land>
+<sea>Ships</sea>
+</transporation>
+</continent>
+
+</export>
+</company>
